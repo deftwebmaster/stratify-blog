@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>100 Day Sprint on Think Ahead: The Stratify Blog</title>
+    <link>https://blog.stratifyplan.com/tags/100-day-sprint/</link>
+    <description>Recent content in 100 Day Sprint on Think Ahead: The Stratify Blog</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.stratifyplan.com/tags/100-day-sprint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 100-Day Sprint: How to Tackle Ambitious Goals with Strategy</title>
+      <link>https://blog.stratifyplan.com/posts/100-day-sprint-strategy/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stratifyplan.com/posts/100-day-sprint-strategy/</guid>
+      <description>Learn how the 100-day sprint method helps you conquer big goals by breaking them down into focused, achievable steps. Use tools like Stratify and GoalHacker to make it automatic.</description>
+    </item>
+  </channel>
+</rss>
